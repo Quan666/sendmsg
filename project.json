@@ -1,0 +1,10 @@
+{
+    "name": "对线脚本",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "club.myelf.quan666",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
