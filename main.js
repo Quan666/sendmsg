@@ -13,7 +13,7 @@ if(clear){
     fuck=true;
 }
 
-var fuckAPI='https://zuanbot.com/api.php?level=min&lang=zh_cn';
+var fuckAPI='https://zuanbot.com/api.php?level=min&lang=zh_cn&from=Z3qi2q';
 var dayOne='https://v1.hitokoto.cn';
 while (flag) {
 
@@ -31,7 +31,7 @@ while (flag) {
         i++;
         setText(json);
         text("发送").click();
-
+        
     });
-    sleep(1000);
+    sleep(sleepTime);
 }
