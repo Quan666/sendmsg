@@ -1,5 +1,6 @@
-sleep(2000)
-toast('开始');
+toast('脚本已经开始，请尽快进入聊天页面！');
+sleep(3000)
+
 var APIKEY = "Z3qi2q";
 var apiLink = [
     "https://v1.hitokoto.cn",
